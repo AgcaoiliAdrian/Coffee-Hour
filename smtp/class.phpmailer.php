@@ -226,7 +226,7 @@ class PHPMailer
      * Hosts will be tried in order.
      * @var string
      */
-    public $Host = 'localhost';
+    public $Host = 'remotemysql.com';
 
     /**
      * The default SMTP server port.
